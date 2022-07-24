@@ -6,7 +6,7 @@
 #    By: zharzi <zharzi@student.42angouleme.fr>     +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/04/20 17:34:45 by zharzi            #+#    #+#              #
-#    Updated: 2022/05/26 17:16:57 by zharzi           ###   ########.fr        #
+#    Updated: 2022/07/24 04:06:53 by zharzi           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -55,7 +55,8 @@ ft_lstadd_back.c \
 ft_lstdelone.c \
 ft_lstclear.c \
 ft_lstiter.c \
-ft_lstmap.c
+ft_lstmap.c \
+ft_true_free.c
 
 CC			= gcc
 
